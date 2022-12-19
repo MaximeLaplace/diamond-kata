@@ -1,9 +1,3 @@
-# js-kata-starter
+# Diamond kata
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+Implementation of a function displaying a diamond in the console, in TypeScript using TDD
